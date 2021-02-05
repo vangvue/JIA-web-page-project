@@ -1,7 +1,6 @@
 {
   "name": "jia-web-page-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/vangvue/JIA-web-page-project/issues"
   },
-  "homepage": "https://github.com/vangvue/JIA-web-page-project#readme"
+  "homepage": "https://github.com/vangvue/JIA-web-page-project#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
